@@ -1,0 +1,20 @@
+{
+  "id": "me",
+  "name": "Alex",
+  "age": 21,
+  "study": "Industriell økonomi",
+  "year": 2,
+  "campus": "Gløshaugen",
+  "languages": ["no", "en"],
+  "bio": "Flyttet til Trondheim i fjor. Liker å finne nye kaffesteder og taper gjerne i brettspill.",
+  "avatarSeed": "Alex-Amici",
+  "interests": ["klatring", "brettspill", "kaffe", "konserter", "matlaging", "fjelltur"],
+  "filters": {
+    "ageMin": 19,
+    "ageMax": 30,
+    "campuses": [],
+    "languages": ["no", "en"],
+    "minShared": 1
+  },
+  "connections": ["p27", "p28", "p29", "p30"]
+}

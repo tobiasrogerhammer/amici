@@ -1,0 +1,61 @@
+{
+  "groupNames": [
+    { "name": "Salvie", "color": "#CFE0C9", "ink": "#1F3A1A" },
+    { "name": "Himmel", "color": "#CFE1F2", "ink": "#16324D" },
+    { "name": "Lavendel", "color": "#DCD2F2", "ink": "#2F2257" },
+    { "name": "Rosé", "color": "#F9CFC6", "ink": "#5A1E14" },
+    { "name": "Sennep", "color": "#F3E2A8", "ink": "#4A3A07" },
+    { "name": "Mint", "color": "#B9DCD9", "ink": "#123C39" }
+  ],
+  "icebreakers": [
+    "Hva er det beste du har spist i Trondheim så langt?",
+    "Hvis gruppa skulle hatt en fast greie hver uke, hva skulle det vært?",
+    "Hva er en ting du alltid har hatt lyst til å prøve, men ikke tørt alene?",
+    "Morgenfugl eller nattugle?",
+    "Hva er den rareste hobbyen du har hatt?",
+    "Hvilken plass i Trondheim burde alle besøke minst én gang?"
+  ],
+  "autoReplies": [
+    "Haha, enig!",
+    "Det høres skikkelig gøy ut, jeg er med",
+    "Passer det for alle på torsdag?",
+    "Jeg kan ta med kaffe",
+    "Sounds great, count me in!",
+    "Kult! Hvor møtes vi?",
+    "Jeg har aldri prøvd det, men vil gjerne",
+    "Yes, la oss gjøre det"
+  ],
+  "chats": [
+    {
+      "id": "c-group-mint", "type": "group", "name": "Gruppe Mint", "colorIndex": 5,
+      "memberIds": ["me", "p28", "p29"], "unread": 2,
+      "messages": [
+        { "from": "system", "minutesAgo": 4320, "text": "Amici satte dere sammen fordi dere alle liker klatring." },
+        { "from": "p28", "minutesAgo": 4300, "text": "Heisann! Noen som vil buldre på torsdag?" },
+        { "from": "p29", "minutesAgo": 4290, "text": "Yes! I can bike there from Gløshaugen" },
+        { "from": "me", "minutesAgo": 4280, "text": "Jeg er med, møtes 17?" },
+        { "from": "p28", "minutesAgo": 1500, "text": "Det var skikkelig gøy i går 🙌 Samme tid neste uke?" },
+        { "from": "p29", "minutesAgo": 38, "text": "Also, there is a sauna event on Saturday. Anyone?" },
+        { "from": "p28", "minutesAgo": 12, "text": "Badstue høres perfekt ut etter en lang uke" }
+      ]
+    },
+    {
+      "id": "c-direct-p27", "type": "direct", "memberIds": ["me", "p27"], "unread": 0,
+      "messages": [
+        { "from": "system", "minutesAgo": 10080, "text": "Dere matchet! Felles interesser: kaffe og brettspill." },
+        { "from": "p27", "minutesAgo": 10000, "text": "Haha, så du går i klassen min? Jeg har sett deg på lesesalen" },
+        { "from": "me", "minutesAgo": 9990, "text": "Haha ja! Kaffe i pausen i morgen?" },
+        { "from": "p27", "minutesAgo": 300, "text": "Takk for i dag! Kollokvie igjen fredag?" }
+      ]
+    },
+    {
+      "id": "c-direct-p30", "type": "direct", "memberIds": ["me", "p30"], "unread": 1,
+      "messages": [
+        { "from": "system", "minutesAgo": 2880, "text": "Dere matchet! Felles interesse: brettspill." },
+        { "from": "p30", "minutesAgo": 2870, "text": "Har du spilt Wingspan?" },
+        { "from": "me", "minutesAgo": 2860, "text": "Nei, men jeg vil gjerne lære!" },
+        { "from": "p30", "minutesAgo": 95, "text": "Jeg tar det med på brettspillkvelden på Samfundet i morgen 😄" }
+      ]
+    }
+  ]
+}

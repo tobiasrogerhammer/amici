@@ -1,0 +1,182 @@
+[
+  {
+    "id": "p1", "name": "Ida", "age": 21, "study": "Bygg- og miljøteknikk", "year": 2, "campus": "Gløshaugen",
+    "languages": ["no", "en"], "hometown": "Bodø",
+    "bio": "Klatrer på Klatreverket tre ganger i uka og prøver å få flere med. Har alltid en termos kaffe i sekken.",
+    "interests": ["klatring", "fjelltur", "kaffe", "brettspill", "badstue"], "likesYou": true
+  },
+  {
+    "id": "p2", "name": "Jonas", "age": 22, "study": "Musikkteknologi", "year": 3, "campus": "Dragvoll",
+    "languages": ["no"], "hometown": "Stavanger",
+    "bio": "Går på minst én konsert i uka og lager altfor mye pasta. Spiller bass i et band ingen har hørt om.",
+    "interests": ["konserter", "musikk", "matlaging", "brettspill", "film"], "likesYou": true
+  },
+  {
+    "id": "p3", "name": "Mei", "age": 24, "study": "MSc Industrial Design", "year": 1, "campus": "Gløshaugen",
+    "languages": ["en"], "hometown": "Taipei",
+    "bio": "New in Trondheim! Looking for people to explore cafés and galleries with. I will teach you how to make proper bubble tea.",
+    "interests": ["kaffe", "kunst", "foto", "tegning", "sprak"], "likesYou": true
+  },
+  {
+    "id": "p4", "name": "Sander", "age": 20, "study": "Datateknologi", "year": 1, "campus": "Gløshaugen",
+    "languages": ["no", "en"], "hometown": "Kristiansand",
+    "bio": "Førsteårs på data. Gamer, men prøver å komme meg ut av rommet oftere. Med på quiz hvis noen trenger en på sport-spørsmålene (jeg kan ingenting).",
+    "interests": ["gaming", "koding", "quiz", "hackathon", "brettspill"], "likesYou": true
+  },
+  {
+    "id": "p5", "name": "Amira", "age": 23, "study": "Psykologi", "year": 4, "campus": "Dragvoll",
+    "languages": ["no", "en"], "hometown": "Oslo",
+    "bio": "Driver bokklubb på hybelen og elsker lange middager. Frivillig i Røde Kors på fritiden.",
+    "interests": ["bok", "middag", "frivillighet", "kaffe", "yoga"], "likesYou": false
+  },
+  {
+    "id": "p6", "name": "Lukas", "age": 25, "study": "PhD Fysikk", "year": 2, "campus": "Gløshaugen",
+    "languages": ["en"], "hometown": "Freiburg",
+    "bio": "German PhD student who misses having a crew for hikes and ski trips. I bring the chocolate.",
+    "interests": ["fjelltur", "ski", "klatring", "sykling", "badstue"], "likesYou": true
+  },
+  {
+    "id": "p7", "name": "Nora", "age": 19, "study": "Forkurs ingeniør", "year": 1, "campus": "Kalvskinnet",
+    "languages": ["no"], "hometown": "Molde",
+    "bio": "Startet på forkurs i januar og kjenner ikke så mange ennå. Liker bakst, film og rolige kvelder.",
+    "interests": ["bakst", "film", "strikking", "kaffe", "brettspill"], "likesYou": true
+  },
+  {
+    "id": "p8", "name": "Emil", "age": 22, "study": "Økonomi og administrasjon", "year": 3, "campus": "Gløshaugen",
+    "languages": ["no", "en"], "hometown": "Trondheim",
+    "bio": "Lokal, så jeg kan vise deg byen. Spiller padel og fotball, og er med i quizlag på Ila.",
+    "interests": ["padel", "fotball", "quiz", "konserter", "trening"], "likesYou": false
+  },
+  {
+    "id": "p9", "name": "Sofia", "age": 23, "study": "MSc Sustainable Energy", "year": 1, "campus": "Gløshaugen",
+    "languages": ["en"], "hometown": "Barcelona",
+    "bio": "Exchange student until June. I want to try everything: skiing, sauna by the fjord, Norwegian waffles. Teach me!",
+    "interests": ["badstue", "ski", "baerekraft", "dans", "sprak"], "likesYou": true
+  },
+  {
+    "id": "p10", "name": "Henrik", "age": 24, "study": "Arkitektur", "year": 4, "campus": "Gløshaugen",
+    "languages": ["no"], "hometown": "Ålesund",
+    "bio": "Tegner mye, fotograferer mer. Leter etter folk som vil på museum eller bare sitte på kafé og skissere.",
+    "interests": ["tegning", "foto", "kunst", "kaffe", "sykling"], "likesYou": false
+  },
+  {
+    "id": "p11", "name": "Thea", "age": 21, "study": "Lektor i realfag", "year": 2, "campus": "Gløshaugen",
+    "languages": ["no"], "hometown": "Tromsø",
+    "bio": "Spiller volleyball og sjakk, og er sånn som tar med seg kortstokk overalt.",
+    "interests": ["volleyball", "sjakk", "brettspill", "quiz", "matlaging"], "likesYou": true
+  },
+  {
+    "id": "p12", "name": "Kwame", "age": 26, "study": "MSc Petroleum Engineering", "year": 2, "campus": "Gløshaugen",
+    "languages": ["en"], "hometown": "Accra",
+    "bio": "I cook big pots of jollof and need people to eat it. Football on Sundays, language café on Wednesdays.",
+    "interests": ["matlaging", "middag", "fotball", "sprak", "konserter"], "likesYou": true
+  },
+  {
+    "id": "p13", "name": "Maja", "age": 20, "study": "Biologi", "year": 1, "campus": "Gløshaugen",
+    "languages": ["no", "en"], "hometown": "Hamar",
+    "bio": "Løper med NTNUI og er nysgjerrig på det meste. Ny i byen og vil gjerne bli kjent med folk utenfor klassen.",
+    "interests": ["lop", "fjelltur", "baerekraft", "yoga", "bakst"], "likesYou": false
+  },
+  {
+    "id": "p14", "name": "Oliver", "age": 23, "study": "Film- og medievitenskap", "year": 3, "campus": "Dragvoll",
+    "languages": ["no", "en"], "hometown": "Bergen",
+    "bio": "Arrangerer filmkvelder på Moholt annenhver uke. Teatersport på fredager.",
+    "interests": ["film", "teater", "konserter", "foto", "debatt"], "likesYou": true
+  },
+  {
+    "id": "p15", "name": "Aisha", "age": 22, "study": "Medisin", "year": 3, "campus": "Øya",
+    "languages": ["no", "en"], "hometown": "Drammen",
+    "bio": "Medisinstudent som trenger pauser fra pensum. Yoga, kaffe og noen å strikke med.",
+    "interests": ["yoga", "strikking", "kaffe", "bok", "bakst"], "likesYou": false
+  },
+  {
+    "id": "p16", "name": "Mathias", "age": 21, "study": "Maskinteknikk", "year": 2, "campus": "Gløshaugen",
+    "languages": ["no"], "hometown": "Lillehammer",
+    "bio": "Står på ski så snart det er snø i Bymarka. Ellers på styrkerommet eller på badstua i Koieruta.",
+    "interests": ["ski", "trening", "badstue", "fjelltur", "sykling"], "likesYou": false
+  },
+  {
+    "id": "p17", "name": "Lena", "age": 24, "study": "MSc Computer Science", "year": 2, "campus": "Gløshaugen",
+    "languages": ["en", "no"], "hometown": "Gdańsk",
+    "bio": "Polish, but I speak decent Norwegian now. Hackathons, board games and baking pierogi.",
+    "interests": ["hackathon", "koding", "brettspill", "bakst", "sprak"], "likesYou": true
+  },
+  {
+    "id": "p18", "name": "Ole", "age": 27, "study": "Erfaringsbasert master i ledelse", "year": 1, "campus": "Kalvskinnet",
+    "languages": ["no"], "hometown": "Steinkjer",
+    "bio": "Studerer ved siden av jobb og savner et studentmiljø. Liker quiz, fellesmiddager og debatt.",
+    "interests": ["quiz", "middag", "debatt", "matlaging", "fotball"], "likesYou": false
+  },
+  {
+    "id": "p19", "name": "Elin", "age": 20, "study": "Musikk, utøvende", "year": 2, "campus": "Øya",
+    "languages": ["no"], "hometown": "Narvik",
+    "bio": "Spiller fiolin og synger i kor. Vil gjerne finne folk å jamme med eller gå på konsert med.",
+    "interests": ["musikk", "konserter", "dans", "teater", "kaffe"], "likesYou": false
+  },
+  {
+    "id": "p20", "name": "Yusuf", "age": 22, "study": "Elektronisk systemdesign", "year": 3, "campus": "Gløshaugen",
+    "languages": ["no", "en"], "hometown": "Oslo",
+    "bio": "Klatrer, sykler og koder. Leter etter folk som vil være med på buldring etter forelesning.",
+    "interests": ["klatring", "sykling", "koding", "gaming", "fjelltur"], "likesYou": false
+  },
+  {
+    "id": "p21", "name": "Chloé", "age": 21, "study": "Exchange, Business", "year": 3, "campus": "Gløshaugen",
+    "languages": ["en"], "hometown": "Lyon",
+    "bio": "From France, here for one semester. I love dancing, cooking and finding the cheapest good wine (sorry, I know).",
+    "interests": ["dans", "matlaging", "middag", "konserter", "sprak"], "likesYou": true
+  },
+  {
+    "id": "p22", "name": "Eirik", "age": 23, "study": "Geologi", "year": 4, "campus": "Gløshaugen",
+    "languages": ["no"], "hometown": "Voss",
+    "bio": "Fjell, stein og mer fjell. Tar med alle på tur, også de som aldri har gått på ski.",
+    "interests": ["fjelltur", "ski", "klatring", "foto", "badstue"], "likesYou": false
+  },
+  {
+    "id": "p23", "name": "Hanna", "age": 22, "study": "Sosialt arbeid", "year": 2, "campus": "Dragvoll",
+    "languages": ["no"], "hometown": "Gjøvik",
+    "bio": "Frivillig på Østbyen frivilligsentral og fan av hundekos. Rolig type som liker små grupper.",
+    "interests": ["frivillighet", "bok", "bakst", "strikking", "film"], "likesYou": false
+  },
+  {
+    "id": "p24", "name": "Ravi", "age": 28, "study": "PhD Marin teknikk", "year": 3, "campus": "Tunga",
+    "languages": ["en"], "hometown": "Pune",
+    "bio": "Postdoc life can be lonely. I play chess, cook spicy food and would love a weekly board game night.",
+    "interests": ["sjakk", "brettspill", "matlaging", "quiz", "kaffe"], "likesYou": true
+  },
+  {
+    "id": "p25", "name": "Julie", "age": 19, "study": "Kjemi", "year": 1, "campus": "Gløshaugen",
+    "languages": ["no", "en"], "hometown": "Fredrikstad",
+    "bio": "Førsteårs og litt overveldet av alt som skjer. Liker yoga, løping og å prøve nye ting.",
+    "interests": ["yoga", "lop", "klatring", "baerekraft", "film"], "likesYou": false
+  },
+  {
+    "id": "p26", "name": "Adrian", "age": 22, "study": "Digital forretningsutvikling", "year": 3, "campus": "Gløshaugen",
+    "languages": ["no", "en"], "hometown": "Ski",
+    "bio": "Lager nettsider på fritiden og liker konserter, padel og en god burger.",
+    "interests": ["padel", "konserter", "koding", "trening", "kaffe"], "likesYou": false
+  },
+  {
+    "id": "p27", "name": "Sigrid", "age": 22, "study": "Industriell økonomi", "year": 2, "campus": "Gløshaugen",
+    "languages": ["no"], "hometown": "Hønefoss",
+    "bio": "Klassekamerat som alltid har snacks i forelesning.",
+    "interests": ["kaffe", "brettspill", "padel"], "likesYou": true
+  },
+  {
+    "id": "p28", "name": "Marius", "age": 23, "study": "Kybernetikk", "year": 3, "campus": "Gløshaugen",
+    "languages": ["no", "en"], "hometown": "Haugesund",
+    "bio": "Klatrer og lager kaffe på V60. Alltid klar for buldring.",
+    "interests": ["klatring", "kaffe", "koding", "fjelltur"], "likesYou": true
+  },
+  {
+    "id": "p29", "name": "Lea", "age": 21, "study": "Exchange, Architecture", "year": 3, "campus": "Gløshaugen",
+    "languages": ["en"], "hometown": "Rotterdam",
+    "bio": "Dutch, cycles everywhere even in the snow.",
+    "interests": ["sykling", "klatring", "kunst", "konserter"], "likesYou": true
+  },
+  {
+    "id": "p30", "name": "Jakob", "age": 20, "study": "Informatikk", "year": 1, "campus": "Gløshaugen",
+    "languages": ["no"], "hometown": "Levanger",
+    "bio": "Brettspillnerd med altfor mange utvidelser.",
+    "interests": ["brettspill", "gaming", "quiz"], "likesYou": true
+  }
+]
