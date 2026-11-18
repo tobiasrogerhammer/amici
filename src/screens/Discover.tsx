@@ -140,7 +140,7 @@ function SwipeCard({
       }}
     >
       <div className="card__photo" style={{ background: colorFor(profile.id) }}>
-        <img src={avatarUri(profile.id)} alt="" draggable={false} />
+        <img src={avatarUri(profile.id, profile.avatar)} alt="" draggable={false} />
         <motion.span className="stamp stamp--like" style={{ opacity: likeOpacity }} aria-hidden>
           VENN
         </motion.span>

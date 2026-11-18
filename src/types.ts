@@ -1,4 +1,7 @@
 export type Interest = { id: string; label: string; category: string }
+
+/** Fast utseende på avataren, så fordelingen av frisyrer, skjegg og briller er bevisst valgt. */
+export type AvatarLook = { hair: string; beard?: boolean; glasses?: boolean }
 export type Category = { id: string; label: string; icon: string }
 
 export type Profile = {
@@ -8,6 +11,7 @@ export type Profile = {
   study: string
   year: number
   campus: string
+  avatar?: AvatarLook
   languages: string[]
   hometown: string
   bio: string
@@ -33,6 +37,7 @@ export type Me = {
   languages: string[]
   bio: string
   avatarSeed: string
+  avatar?: AvatarLook
   interests: string[]
   filters: Filters
   connections: string[]

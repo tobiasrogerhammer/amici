@@ -8,6 +8,7 @@
   "languages": ["no", "en"],
   "bio": "Flyttet til Trondheim i fjor. Liker å finne nye kaffesteder og taper gjerne i brettspill.",
   "avatarSeed": "Alex-Amici",
+  "avatar": { "hair": "variant29" },
   "interests": ["klatring", "brettspill", "kaffe", "konserter", "matlaging", "fjelltur"],
   "filters": {
     "ageMin": 19,

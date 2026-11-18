@@ -146,7 +146,7 @@
     "dayOffset": 3, "time": "20:00", "durationMin": 180, "place": "Moholt studentby, Loftet", "area": "Moholt",
     "meetingPoint": "Loftet i 4. etasje, ta med pledd",
     "price": 0, "interests": ["film", "bakst"], "alcoholFree": true,
-    "description": "Nora baker kanelboller, Oliver har prosjektoren. Vi stemmer over filmen på stedet."
+    "description": "Nicoline baker kanelboller, Oliver har prosjektoren. Vi stemmer over filmen på stedet."
   },
   {
     "id": "g6", "kind": "group", "title": "Kaffe og skissing på Dromedar", "organizer": "Skissegruppa",

@@ -7,13 +7,15 @@ export function Avatar({ id, size = 44, ring = false }: { id: string; size?: num
   const { state } = useStore()
   const isMe = id === 'me'
   const seed = isMe ? state.me.avatarSeed : id
-  const name = isMe ? state.me.name : getProfile(id)?.name ?? ''
+  const profile = isMe ? undefined : getProfile(id)
+  const name = isMe ? state.me.name : profile?.name ?? ''
+  const look = isMe ? state.me.avatar : profile?.avatar
   return (
     <span
       className={`avatar${ring ? ' avatar--ring' : ''}`}
       style={{ width: size, height: size, background: colorFor(seed) }}
     >
-      <img src={avatarUri(seed)} alt={name} width={size} height={size} draggable={false} />
+      <img src={avatarUri(seed, look)} alt={name} width={size} height={size} draggable={false} />
     </span>
   )
 }

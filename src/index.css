@@ -1426,3 +1426,19 @@ input[type='range'] {
     transition-duration: 0.01ms !important;
   }
 }
+
+.event-filters {
+  margin-bottom: 10px;
+}
+
+.event-subsections {
+  display: grid;
+  gap: 22px;
+}
+.subsection-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--muted);
+  margin-bottom: 8px;
+}
+

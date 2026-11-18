@@ -73,7 +73,12 @@ function initialState(): State {
 function load(): State {
   try {
     const raw = localStorage.getItem(STORAGE_KEY)
-    if (raw) return { ...initialState(), ...JSON.parse(raw), match: null, groupToast: null }
+    if (raw) {
+      const saved = JSON.parse(raw)
+      // Utseendet kommer alltid fra me.json, også i økter som ble lagret før feltet fantes
+      const me = { ...saved.me, avatar: initialMe.avatar, avatarSeed: initialMe.avatarSeed }
+      return { ...initialState(), ...saved, me, match: null, groupToast: null }
+    }
   } catch {
     /* privat modus eller blokkert lagring: start med ferske demodata */
   }
